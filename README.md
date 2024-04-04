@@ -28,4 +28,4 @@ This Sorting Algorithm Visualizer is a Java application that provides a graphica
 ![Sorting Algorithm Visualizer](SAV4.png.png)
 
 ## Contributors
-- [Your Name](https://github.com/DPRAHUL-2021)
+- [DPRAHUL](https://github.com/DPRAHUL-2021)
