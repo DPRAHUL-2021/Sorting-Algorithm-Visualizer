@@ -18,9 +18,13 @@ This Sorting Algorithm Visualizer is a Java application that provides a graphica
 6. Enjoy watching the sorting process step by step!
 
 ## Example
+- Output Window
 ![Sorting Algorithm Visualizer](SAV1.png.png)
+- Select The Sorting Technique
 ![Sorting Algorithm Visualizer](SAV2.png.png)
+- In Between The Sorting Process
 ![Sorting Algorithm Visualizer](SAV3.png.png)
+- After The Sorting Is Completed
 ![Sorting Algorithm Visualizer](SAV4.png.png)
 
 ## Contributors
